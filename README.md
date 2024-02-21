@@ -8,10 +8,10 @@ Note: This version of Advanced Data Engineering with Databricks was released in 
 
 By the end of our time together, you’ll be able to:
 
-Design databases and pipelines optimized for the Databricks Data Intelligence Platform. 
-Implement efficient incremental data processing to validate and enrich data driving business decisions and applications.
-Leverage Databricks-native features for managing access to sensitive data and fulfilling right-to-be-forgotten requests 
-Manage code promotion, task orchestration, and production job monitoring using Databricks tools
+- Design databases and pipelines optimized for the Databricks Data Intelligence Platform. 
+- Implement efficient incremental data processing to validate and enrich data driving business decisions and applications.
+- Leverage Databricks-native features for managing access to sensitive data and fulfilling right-to-be-forgotten requests 
+- Manage code promotion, task orchestration, and production job monitoring using Databricks tools
 
 ## Prerequisites
 
